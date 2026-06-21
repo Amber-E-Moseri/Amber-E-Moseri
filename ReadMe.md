@@ -1,6 +1,6 @@
 # Hey, I'm Amber 👋
 
-I build solutions to real problems. I love creating systems that actually work — ones that fit how people operate, not the reverse. I'm obsessed with data, automation, and **eliminating** redundant work through systems thinking.
+I build solutions to real problems. I love creating systems that actually work — ones that fit how people operate, not the reverse. I'm obsessed with data, automation, and eliminating redundant work through systems thinking.
 
 I started with process automation (Google Apps Script, eliminating redundant work). Now I'm building full platforms in production, handling all technical and product decisions solo.
 
@@ -77,6 +77,7 @@ Lightweight relationship management built for one-person pastoral outreach (inte
 ---
 
 **Location:** GTA, Ontario, Canada  
-**GitHub:** [@Amber-E-Moseri](https://github.com/Amber-E-Moseri)
+**GitHub:** [@Amber-E-Moseri](https://github.com/Amber-E-Moseri)  
+**Email:** [moseriamber@gmail.com](mailto:moseriamber@gmail.com)
 
-Looking for: Problems where automation or systems-thinking unlocks disproportionate leverage. Ideally where I can build in public and learn from real users.
+**Looking for:** Open to contract work, full-time roles, or learning partnerships — particularly interested in problems where I can own platform architecture and learn from building systems at scale.
