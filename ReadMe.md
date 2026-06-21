@@ -14,6 +14,9 @@ Custom ops platform replacing ClickUp for a 30-person organization. Communicatio
 **Foundation School**  
 Full ed-tech platform. Teacher portal, admin dashboard, email pipelines, attendance, Moodle sync. Shipping now.
 
+**Flock — Pastoral CRM**  
+Lightweight relationship management system for consistent personal outreach. AI-assisted call logging, smart scheduling, priority dashboard ("who to call next"), offline queue, daily summaries, analytics. Built on Google Apps Script + Sheets + vanilla JS. No auth yet — that's the thing I'd add first if scaling.
+
 **BLW CAN Map**  
 Interactive map of 358 Canadian communities with Prayer Mode + Spotify integration. Tracking presence at scale.
 
@@ -43,4 +46,4 @@ Data engineering (IBM, Google, Andrew Ng), Lean Six Sigma, building things that 
 
 ---
 
-**GTA, Ontario** | Loves data, halal food, solving problems
+**GTA, Ontario** | Loves data, solving problems
