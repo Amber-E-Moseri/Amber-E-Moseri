@@ -14,7 +14,7 @@ I approach problems with a **systems and processes lens** — understanding work
 
 ## Production Platforms
 
-### [BLW Canada OS](https://github.com/Amber-E-Moseri/Nexus) — 30 active users
+### [NEXUS](https://github.com/Amber-E-Moseri/Nexus) — 30 active users
 
 Custom ops platform for a 30-person organization across 5 departments. The why: Existing team management tools are expensive and don't fit the actual workflow. Built custom to match their structure:
 
