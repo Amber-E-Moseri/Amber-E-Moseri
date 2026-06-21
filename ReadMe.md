@@ -2,6 +2,8 @@
 
 I build solutions to real problems. I love creating systems that actually work — ones that fit how people operate, not the reverse. I'm obsessed with data and what it reveals.
 
+I started with **process automation** (Google Apps Script, eliminating manual work). Now I'm building full platforms.
+
 Currently: **BLW Canada OS** (React/Vite/Supabase ops platform), **Foundation School** (full-stack ed tech), **BLW CAN Map** (interactive community tracker).
 
 ---
@@ -22,6 +24,16 @@ Interactive map of 358 Canadian communities with Prayer Mode + Spotify integrati
 
 **Meeting OS**  
 Minutes, transcription, action items, Claude summaries. No fluff.
+
+---
+
+## Automations & Process Optimization
+
+**BLW Report Suite**  
+Google Apps Script that automated a 2.5-hour weekly reporting process → under 5 minutes. Generates follow-up + first-timer reports for 6 subgroups from Elvanto data with automatic grading, colour-coded health bands, PDF export, and email delivery. One click replaces dozens of manual steps.
+
+**Drive File Alert**  
+Monitors Google Drive and notifies via email when files are uploaded — eliminating the manual habit of checking folders. Smart scheduling (every 15 mins on Sunday when uploads peak, every 2 hours other days), batches uploads from same person within 7 minutes into one notification. Runs free inside Google's infrastructure, zero servers.
 
 ---
 
